@@ -76,6 +76,12 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
 
 ---
 
-## 🧑‍💻 Credits
+<p align="center">
+  <a href="https://ko-fi.com/playhaux">
+    <img src="https://img.shields.io/badge/Donate-Ko--fi-72a4f2?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate on Ko-fi" />
+  </a>
+</p>
 
-Developed with ❤️ by [Playhaux](https://playhaux.com).
+<p align="center">
+  Designed with ❤️ by <a href="https://playhaux.com"><b>Playhaux</b></a>
+</p>
