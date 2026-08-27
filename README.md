@@ -70,6 +70,12 @@ The compiled output will be generated inside `bin/Release/net6.0/win-x64/publish
 
 ---
 
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ## 🧑‍💻 Credits
 
 Developed with ❤️ by [Playhaux](https://playhaux.com).
