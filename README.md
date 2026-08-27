@@ -14,7 +14,7 @@ A lightweight, zero-dependency Windows utility that automates enabling **Develop
 
 ## How to Download & Run
 
-1. Go to the [**Releases**](https://github.com/renderbull/ETS2-DevMode-Activator/releases) section on the GitHub repository page and download the latest compiled `ETS2_DevMode_Activator.exe`.
+1. Go to the [**Releases**](https://github.com/playhaux/ETS2-DevMode-Activator/releases) section on the GitHub repository page and download the latest compiled `ETS2_DevMode_Activator.exe`.
 2. Double-click the executable to launch it.
 3. The tool will scan for your configuration file. If found, it will apply the changes instantly.
 4. If your config file is in a custom location, paste the path to your `config.cfg` file when prompted.
