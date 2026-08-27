@@ -1,11 +1,5 @@
 # ETS2 Developer & Console Mode Activator
 
-<p align="center">
-  <a href="https://github.com/playhaux/ETS2-DevMode-Activator/releases/latest">
-    <img src="https://img.shields.io/github/v/release/playhaux/ETS2-DevMode-Activator?label=Download%20Latest%20Release&style=for-the-badge&logo=github&color=2ea44f" alt="Download Latest Release" />
-  </a>
-</p>
-
 A lightweight, zero-dependency Windows utility that automates enabling **Developer Mode** and the **Developer Console** in Euro Truck Simulator 2 (ETS2).
 
 ## Features
@@ -20,7 +14,12 @@ A lightweight, zero-dependency Windows utility that automates enabling **Develop
 
 ## How to Download & Run
 
-1. Go to the [**Releases**](https://github.com/renderbull/ETS2-DevMode-Activator/releases) section on the GitHub repository page and download the latest compiled `ETS2_DevMode_Activator.exe`.
+1. Download the latest compiled `ETS2_DevMode_Activator.exe` from the latest release:
+   <p align="center">
+     <a href="https://github.com/playhaux/ETS2-DevMode-Activator/releases/latest">
+       <img src="https://img.shields.io/github/v/release/playhaux/ETS2-DevMode-Activator?label=Download%20Latest%20Release&style=for-the-badge&logo=github&color=2ea44f" alt="Download Latest Release" />
+     </a>
+   </p>
 2. Double-click the executable to launch it.
 3. The tool will scan for your configuration file. If found, it will apply the changes instantly.
 4. If your config file is in a custom location, paste the path to your `config.cfg` file when prompted.
