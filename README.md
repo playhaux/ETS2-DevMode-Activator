@@ -81,6 +81,13 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
 
 ---
 
+<div align="center">
+
+### Support the Project ☕
+If you find this utility helpful and want to support further development, feel free to buy me a coffee!
+
+</div>
+
 <p align="center">
   <a href="https://ko-fi.com/playhaux">
     <img src="https://img.shields.io/badge/Donate-Ko--fi-72a4f2?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Donate on Ko-fi" />
@@ -88,5 +95,6 @@ This project is licensed under the **GNU General Public License v3.0 (GPLv3)**. 
 </p>
 
 <p align="center">
-  Designed with ❤️ by <a href="https://playhaux.com"><b>Playhaux</b></a>
+  Developed with ❤️ by <a href="https://playhaux.com"><b>Playhaux</b></a>
 </p>
+
